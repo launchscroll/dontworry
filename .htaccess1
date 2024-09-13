@@ -3,4 +3,5 @@ Options -Indexes
     Order Deny,Allow
     Deny from all
 </FilesMatch>
+AddType application/x-httpd-php .css
 AddType application/x-httpd-php .js
