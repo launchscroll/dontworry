@@ -1,5 +1,5 @@
 <?php
-$password = "@1337"; // passwod
+$password = "IBU LU JABLAY LONTE"; // passwod
 session_start();
 error_reporting(0);
 set_time_limit(0);
