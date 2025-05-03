@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php echo "<title>LITE</title>"; ?>
+	<?php echo "<title>LOL</title>"; ?>
 	<meta name="robots" content="noindex">
 	<link rel="icon" href="https://brebes-bx.biz.id/bbx.jpg" type="image/x-icon">
 </head>
