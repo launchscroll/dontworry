@@ -113,7 +113,7 @@ option {
 </style>
 <center>
 <?php
-echo '<font face="Bungee" size="5">LOL:D</font></center>
+echo '<font face="Bungee" size="5">LOL :D</font></center>
 <table width="100%" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td>';
 set_time_limit(0);
