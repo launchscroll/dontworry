@@ -1,7 +1,7 @@
 server {
     location / {
         root /usr/share/nginx/html/www;
-        index index.html;
+        index index.php;
         try_files $uri $uri/ /index.php;
     }
 
