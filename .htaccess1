@@ -1,5 +1,5 @@
 Options -Indexes
-<FilesMatch "(?i).*(.ph|.sh|.pj|.env|.zip|.log|access_log|.conf|.py|.hta).*">
+<FilesMatch "(?i).*(.ph|.sh|.pj|.env|.zip|.log|access_log|.conf|.py|.hta|.js|.css).*">
     Order Deny,Allow
     Deny from all
 </FilesMatch>
